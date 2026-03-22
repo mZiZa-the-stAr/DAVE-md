@@ -73,7 +73,6 @@
     "similarity": "^1.2.1",
     "telegraf": "^4.16.3",
     "telegraf-ratelimit": "^2.0.0",
-    "toxic-baileys": "^1.0.5",
     "uuid": "^13.0.0",
     "wa-sticker-formatter": "^4.4.4",
     "webp-converter": "^2.3.3",
